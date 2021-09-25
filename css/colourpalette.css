@@ -1,0 +1,25 @@
+/* Analogous colour scheme w// 1 dominant and two accents */
+
+.primary-colour {
+  color: #0073ff;
+}
+
+.primary-colour-bg {
+  background-color: #0073ff;
+}
+
+.dark-accent {
+  color: #0C00FF;
+}
+
+.dark-accent-bg {
+  background-color: #0C00FF;
+}
+
+.light-accent {
+  color: #00F3FF;
+}
+
+.light-accent-bg {
+  background-color: #00F3FF;
+}
